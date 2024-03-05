@@ -10,3 +10,4 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Malayalam",LANGUAGE="mal",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_15_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Kannada",LANGUAGE="kan",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_16_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Bengali",LANGUAGE="ben",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
+
